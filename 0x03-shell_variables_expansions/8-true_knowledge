@@ -1,2 +1,2 @@
 #!/bin/bash
-echho $((128 + $TRUEKNOWLEDGE))
+echho $((128+$TRUEKNOWLEDGE))
